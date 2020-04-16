@@ -1,4 +1,4 @@
-//  this script sorts the table when clicked on table head
+
 
 function hideNotes(){
     let table = document.getElementById("taskTable");
